@@ -1,1 +1,1 @@
-A rough sketch of clique,an open source vector database 
+A rough sketch of clique,a vector database built as a hobbyist project
